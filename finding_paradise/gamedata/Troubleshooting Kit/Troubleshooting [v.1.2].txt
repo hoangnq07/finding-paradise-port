@@ -1,0 +1,12 @@
+===========================================================================
+TROUBLESHOOTING:
+===========================================================================
+
+*If full screen mode is stretching the image, try configuring the handling mode for "Full Screen Settings" -- Usually via the physical Settings buttons on the monitor itself.
+---------------------------------------------------------------------------
+
+*If the game isn't full-screening, try pressing Alt+Enter to toggle. (An alternative is playing via windowed mode, though not recommended. Windows Magnifier could be activated to enlarge the window, via pressing [Windows Key] and [+] together. To close magnifier, press [Windows Key] and [Esc].)
+---------------------------------------------------------------------------
+
+*If there is no music/sound, try pressing F1 in-game and see if BGM & BGS are checked.
+===========================================================================
